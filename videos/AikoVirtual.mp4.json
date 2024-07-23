@@ -1,0 +1,24 @@
+{
+  "status": "ready",
+  "originalFilePath": "videos\\AikoVirtual.mp4",
+  "provider": "mux",
+  "test": "false",
+  "providerMetadata": {
+    "mux": {
+      "uploadId": "UIgLdaqlWe6ytEemkNdYDTpph51Qcl02R004K1QS9FR9g",
+      "assetId": "O7DCscpZz5bHiv8Hs9w1LwREoA01zGld4wtNYMjDSNqw",
+      "playbackId": "2q4h6kXPKqT00RjOUueWG3BOLvZJl01tA00LrBwr3zMiKo"
+    }
+  },
+  "createdAt": 1721767420246,
+  "updatedAt": 1721767429126,
+  "size": 1480339,
+  "sources": [
+    {
+      "src": "https://stream.mux.com/2q4h6kXPKqT00RjOUueWG3BOLvZJl01tA00LrBwr3zMiKo.m3u8",
+      "type": "application/x-mpegURL"
+    }
+  ],
+  "poster": "https://image.mux.com/2q4h6kXPKqT00RjOUueWG3BOLvZJl01tA00LrBwr3zMiKo/thumbnail.webp",
+  "blurDataURL": "data:image/webp;base64,UklGRm4AAABXRUJQVlA4IGIAAADwAQCdASoQAAkAAQAcJZwCdAEUr+FijaAA/vVWd08vZb1P/WJ8y5s6++f59zEOewDH1IF9HvtR5rZY2XW+QiQdjEKmc6a5j7eOgl2AaAD6j+kaziDD1pGKjzMrr80BeAAAAA=="
+}
